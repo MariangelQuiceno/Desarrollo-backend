@@ -16,3 +16,8 @@
 - Fecha Ultima Actualización del Laboratorio: 16/04/2024
 - Commit:  “Estructura de carpetas inicial, creacion de servidor y configuracion de envs”
 
+## Lección: Manejo de rutas en Express. - Lab 3
+- Estado: X
+- Fecha Ultima Actualización del Laboratorio: 17/04/2024
+- Commit:  X
+
