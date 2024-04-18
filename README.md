@@ -18,6 +18,6 @@
 
 ## Lección: Manejo de rutas en Express. - Lab 3
 - Estado: Hecho
-- Fecha Ultima Actualización del Laboratorio: 17/04/2024
+- Fecha Ultima Actualización del Laboratorio: 18/04/2024
 - Commit:  "Creacion de Rutas de la Api"
 
