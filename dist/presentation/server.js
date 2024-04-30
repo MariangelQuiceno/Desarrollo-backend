@@ -23,7 +23,12 @@ class Server {
     }
     start() {
         return __awaiter(this, void 0, void 0, function* () {
+            // Middlewares
+            this.app.use(express_1.default.json()); //7
+            this.app.use(express_1.default.urlencoded({ extended: true })); //8
+            // Usar las rutas definidas
             this.app.use(this.routes); //6
+            // Escuchar el puerto
             this.app.listen(this.port, () => {
                 console.log(`Server is running on port ${this.port}`);
             });
