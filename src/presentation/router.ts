@@ -1,5 +1,5 @@
 import { Router } from 'express'; // 2
-import { AuthRoutes } from '../auth/routes'; //6
+import { AuthRoutes } from './auth/routes'; //6
 
 export class AppRoutes { // 1
 
