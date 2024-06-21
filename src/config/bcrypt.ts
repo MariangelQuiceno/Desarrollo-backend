@@ -1,3 +1,4 @@
+
 import { compareSync, hashSync } from "bcryptjs"; 
 
 export class BcryptAdapter {
